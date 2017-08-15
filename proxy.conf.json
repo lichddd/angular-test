@@ -1,0 +1,10 @@
+{
+  "/search": {
+    "target": "http://search.aixifan.com/",
+    "secure": false,
+    "changeOrigin":true,
+    "pathRewrite":{
+      "^api":""
+    }
+  }
+}
